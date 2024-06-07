@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+   }
+.menu-item{
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+}
+.navbar-menu{
+    text-align: end;
+    margin: 20px;
+    padding: 20px;
+    /* display: flex; */
+}
